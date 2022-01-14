@@ -1,5 +1,5 @@
 
-🇨🇳 Hi I'm RAE, A android developer. 👋👋
+Hi I'm RAE, A Android developer from China 🇨🇳🇨🇳
 
 
 #### Languages and Tools: 
