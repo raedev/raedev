@@ -1,5 +1,5 @@
 
-Hi I'm RAE, Android developer from China. 🇨🇳🇨🇳
+Hi I'm RAE, An android developer from China. 
 
 
 #### Languages and Tools: 
@@ -10,14 +10,3 @@ Hi I'm RAE, Android developer from China. 🇨🇳🇨🇳
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenve)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-#### ⭐️⭐️ Top Repositories
-
-
-<a href="https://github.com/raedev/android-cnblogs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raedev&repo=android-cnblogs" />
-</a>
-
-<a href="https://github.com/raedev/android-cnblogs-sdk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raedev&repo=android-cnblogs-sdk" />
-</a>
